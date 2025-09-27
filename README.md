@@ -14,7 +14,7 @@ Input CSV should have:
 - `store` (string or id)
 - `item` (string or id)
 - `sales` (numeric; daily sales)
-----
+---------
 ## Quickstart
 ```bash
 # 1. Setup environment
