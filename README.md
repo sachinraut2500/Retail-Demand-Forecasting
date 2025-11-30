@@ -7,7 +7,7 @@ Predict product demand to improve inventory planning. This repo contains a small
 - `src/train.py` — train an XGBoost model and save artifact
 - `src/predict.py` — load model and produce forecasts
 - `src/evaluate.py` — compute RMSE and MAPE
-
+--------
 ## Data format
 Input CSV should have:
 - `date` (YYYY-MM-DD)
