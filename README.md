@@ -1,7 +1,7 @@
 # Retail Demand Forecasting
 
 Predict product demand to improve inventory planning. This repo contains a small pipeline: feature engineering, model training (XGBoost), prediction, and evaluation.
-
+----
 ## Included scripts
 - `src/features.py` — load raw sales and create lag + calendar features
 - `src/train.py` — train an XGBoost model and save artifact
