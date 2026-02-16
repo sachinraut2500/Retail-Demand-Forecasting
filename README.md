@@ -1,5 +1,5 @@
 # Retail Demand Forecasting
-
+---
 Predict product demand to improve inventory planning. This repo contains a small pipeline: feature engineering, model training (XGBoost), prediction, and evaluation.
 -----------
 ## Included scripts
